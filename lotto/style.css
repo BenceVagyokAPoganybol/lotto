@@ -72,3 +72,25 @@ main {
     display: flex;
     font-size: 40px;
 }
+
+/*Játék rész*/
+
+#szam1hely {
+    font-size: 70px;
+}
+
+#szam2hely {
+    font-size: 70px;
+}
+
+#szam3hely {
+    font-size: 70px;
+}
+
+#szam4hely {
+    font-size: 70px;
+}
+
+#szam5hely {
+    font-size: 70px;
+}
