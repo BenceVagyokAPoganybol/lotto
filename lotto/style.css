@@ -60,7 +60,7 @@ main {
         rgba(0, 143, 24, 0.9),
         rgba(0, 143, 24, 0.6)
     );
-    min-height: 100vh;
+    min-height: 90vh;
     width: 80%;
     color: rgb(226, 226, 226);
     border-radius: 20px;
