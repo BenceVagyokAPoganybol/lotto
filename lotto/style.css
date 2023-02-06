@@ -72,8 +72,39 @@ main {
     display: flex;
     font-size: 40px;
 }
+.container a {
+    font-size: 17px;
+    position:relative;
+    left: 30px;
+    right: 40px; 
+    display: flex;
+    margin-right:60px;
+    margin-left:7px;
+    text-align:justify;
+}
 
 /*Játék rész*/
+.container button{
+    background-color:whitesmoke ;
+    border: none;
+    color:rgb(0, 0, 0);
+    font-size: 30px;
+    margin-left: 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    box-shadow: 0 9px #999;
+}
+.conatiner button:hover{
+    background-color: #3e8e41
+}
+
+.container button:active{
+    background-color: gray;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}   
 
 #szam1hely {
     font-size: 70px;
