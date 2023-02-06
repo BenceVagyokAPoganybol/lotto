@@ -87,6 +87,7 @@ main {
 .container button{
     background-color:whitesmoke ;
     border: none;
+    border-radius: 10px;
     color:rgb(0, 0, 0);
     font-size: 30px;
     margin-left: 35px;
@@ -95,9 +96,12 @@ main {
     display: inline-block;
     cursor: pointer;
     box-shadow: 0 9px #999;
+    transition: 0.2s all ease;
 }
-.conatiner button:hover{
-    background-color: #3e8e41
+.container button:hover{
+    transition: 0.2s all ease;
+    background-color: #9e9e9e;
+    box-shadow: 0 9px #777
 }
 
 .container button:active{
