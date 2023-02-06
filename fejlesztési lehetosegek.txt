@@ -1,0 +1,14 @@
+FEJLESZTESI LEHETOSEGEK TU DÖ CSOPORT MUNKA ABOUT LOTTÓ
+
+
+
+
+
+
+
+
+
+1. responzívvá tenni a weblapot
+2. befejzni a főoldalt
+3. szebbé tenni a játék környezetét animációkkal/ képekkel 
+4. mittom én
